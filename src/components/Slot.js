@@ -34,7 +34,7 @@ export const Slot = ({rowIndex, parkingSlotIndex, slotIndex, slot}) => {
                     <span className='car-parked-size'>{carParkedSize}</span>
                     <span className="slot-number">{`${rowIndex}-${parkingSlotIndex}-${slotIndex}`}</span>
                     <div className="slot-content">
-                        <div className="plate-number">
+                        <div className={`plate-number ${slotLocation ? 'occupied' : ''}`}>
                         { slotLocation &&
                             <>
                                 <MdDirectionsCar size="2em" className='car-icon'/>

@@ -136,7 +136,7 @@ export const UnparkModal = ({ slot, slotIndex}) => {
           </div>
           <div className='info'>
             <span className='desc'>Parking Fee:</span>
-            <span className='value'>P{totalParkingFee}</span>
+            <span className='value fee'>P{totalParkingFee}</span>
           </div>
         </div>
         <div className='button-wrapper'>
