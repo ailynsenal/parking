@@ -3,72 +3,121 @@
     {
       "id": "6WOQ515",
       "plateNumber": "6WOQ515",
-      "slotLocation": "012",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:13:43.581Z",
       "originalTimeIn": "2022-02-04T05:13:43.581Z",
-      "timeOut": null,
-      "wasParked": true
+      "timeOut": "2026-09-23T16:20:26.017Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437147,
+        "seconds": 146228802
+      }
     },
     {
       "id": "6ZDG251",
       "plateNumber": "6ZDG251",
-      "slotLocation": "020",
+      "slotLocation": "",
       "size": "0",
       "timeIn": "2022-02-04T03:25:49.932Z",
       "originalTimeIn": "2022-02-04T03:25:49.932Z",
-      "timeOut": null,
-      "wasParked": true
+      "timeOut": "2026-09-23T16:20:14.887Z",
+      "wasParked": false,
+      "totalParkingFee": 8460240,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 13,
+        "minutes": 2437255,
+        "seconds": 146235265
+      }
     },
     {
       "id": "6WBJ732",
       "plateNumber": "6WBJ732",
-      "slotLocation": "042",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T03:25:56.319Z",
       "originalTimeIn": "2022-02-04T03:25:56.319Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:37.019Z",
+      "wasParked": false,
+      "totalParkingFee": 8461040,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 13,
+        "minutes": 2437255,
+        "seconds": 146235281
+      }
     },
     {
       "id": "6YDN591",
       "plateNumber": "6YDN591",
-      "slotLocation": "000",
+      "slotLocation": "",
       "size": "0",
       "timeIn": "2022-02-04T04:31:53.269Z",
       "originalTimeIn": "2022-02-04T04:31:53.269Z",
-      "timeOut": null,
-      "wasParked": true
+      "timeOut": "2026-09-23T16:20:09.861Z",
+      "wasParked": false,
+      "totalParkingFee": 8460220,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 12,
+        "minutes": 2437189,
+        "seconds": 146231297
+      }
     },
     {
       "id": "8EVP296",
       "plateNumber": "8EVP296",
-      "slotLocation": "002",
+      "slotLocation": "",
       "size": "0",
       "timeIn": "2022-02-04T05:03:46.814Z",
       "originalTimeIn": "2022-02-04T05:03:46.814Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:22.440Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437157,
+        "seconds": 146229396
+      }
     },
     {
       "id": "6TRL400",
       "plateNumber": "6TRL400",
-      "slotLocation": "010",
+      "slotLocation": "",
       "size": "0",
       "timeIn": "2022-02-04T05:03:59.621Z",
       "originalTimeIn": "2022-02-04T05:03:59.621Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:12.892Z",
+      "wasParked": false,
+      "totalParkingFee": 8460200,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437157,
+        "seconds": 146229373
+      }
     },
     {
       "id": "6YPV140",
       "plateNumber": "6YPV140",
-      "slotLocation": "011",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:04:13.768Z",
       "originalTimeIn": "2022-02-04T05:04:13.768Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:20.415Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437157,
+        "seconds": 146229367
+      }
     },
     {
       "id": "8DNK906",
@@ -90,292 +139,812 @@
     {
       "id": "7FMI103",
       "plateNumber": "7FMI103",
-      "slotLocation": "102",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:04:24.586Z",
       "originalTimeIn": "2022-02-04T05:04:24.586Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:41.520Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437157,
+        "seconds": 146229377
+      }
     },
     {
       "id": "6YVA267",
       "plateNumber": "6YVA267",
-      "slotLocation": "031",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:04:39.092Z",
       "originalTimeIn": "2022-02-04T05:04:39.092Z",
-      "timeOut": null,
-      "wasParked": true
+      "timeOut": "2026-09-23T16:20:31.643Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437156,
+        "seconds": 146229353
+      }
     },
     {
       "id": "8IVE631",
       "plateNumber": "8IVE631",
-      "slotLocation": "022",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:04:45.269Z",
       "originalTimeIn": "2022-02-04T05:04:45.269Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:29.819Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437156,
+        "seconds": 146229345
+      }
     },
     {
       "id": "6ZDQ206",
       "plateNumber": "6ZDQ206",
-      "slotLocation": "041",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:04:56.903Z",
       "originalTimeIn": "2022-02-04T05:04:56.903Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:35.325Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437156,
+        "seconds": 146229338
+      }
     },
     {
       "id": "7BXX876",
       "plateNumber": "7BXX876",
-      "slotLocation": "111",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:07:44.581Z",
       "originalTimeIn": "2022-02-04T05:07:44.581Z",
-      "timeOut": null,
-      "wasParked": true
+      "timeOut": "2026-09-23T16:20:43.232Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437153,
+        "seconds": 146229179
+      }
     },
     {
       "id": "7JLG135",
       "plateNumber": "7JLG135",
-      "slotLocation": "402",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:08:45.562Z",
       "originalTimeIn": "2022-02-04T05:08:45.562Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:18.324Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437153,
+        "seconds": 146229153
+      }
     },
     {
       "id": "8GFP288",
       "plateNumber": "8GFP288",
-      "slotLocation": "401",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:08:53.969Z",
       "originalTimeIn": "2022-02-04T05:08:53.969Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:16.778Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437153,
+        "seconds": 146229143
+      }
     },
     {
       "id": "7HRZ620",
       "plateNumber": "7HRZ620",
-      "slotLocation": "422",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:01.903Z",
       "originalTimeIn": "2022-02-04T05:09:01.903Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:21.204Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437153,
+        "seconds": 146229139
+      }
     },
     {
       "id": "7ZGO637",
       "plateNumber": "7ZGO637",
-      "slotLocation": "442",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:09.092Z",
       "originalTimeIn": "2022-02-04T05:09:09.092Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:24.031Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437153,
+        "seconds": 146229135
+      }
     },
     {
       "id": "7BKO556",
       "plateNumber": "7BKO556",
-      "slotLocation": "432",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:11.488Z",
       "originalTimeIn": "2022-02-04T05:09:11.488Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:22.561Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437153,
+        "seconds": 146229131
+      }
     },
     {
       "id": "8KJO656",
       "plateNumber": "8KJO656",
-      "slotLocation": "412",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:24.707Z",
       "originalTimeIn": "2022-02-04T05:09:24.707Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:19.846Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229115
+      }
     },
     {
       "id": "6YDI669",
       "plateNumber": "6YDI669",
-      "slotLocation": "302",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:26.562Z",
       "originalTimeIn": "2022-02-04T05:09:26.562Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:07.630Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229101
+      }
     },
     {
       "id": "7IRK768",
       "plateNumber": "7IRK768",
-      "slotLocation": "312",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:28.308Z",
       "originalTimeIn": "2022-02-04T05:09:28.308Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:09.511Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229101
+      }
     },
     {
       "id": "7LIT762",
       "plateNumber": "7LIT762",
-      "slotLocation": "322",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:30.507Z",
       "originalTimeIn": "2022-02-04T05:09:30.507Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:11.110Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229101
+      }
     },
     {
       "id": "7VFJ463",
       "plateNumber": "7VFJ463",
-      "slotLocation": "342",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:32.050Z",
       "originalTimeIn": "2022-02-04T05:09:32.050Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:14.206Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229102
+      }
     },
     {
       "id": "7KGN371",
       "plateNumber": "7KGN371",
-      "slotLocation": "332",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:33.758Z",
       "originalTimeIn": "2022-02-04T05:09:33.758Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:12.707Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229099
+      }
     },
     {
       "id": "8BMW417",
       "plateNumber": "8BMW417",
-      "slotLocation": "242",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:35.634Z",
       "originalTimeIn": "2022-02-04T05:09:35.634Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:04.950Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229089
+      }
     },
     {
       "id": "6VBD881",
       "plateNumber": "6VBD881",
-      "slotLocation": "232",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:37.627Z",
       "originalTimeIn": "2022-02-04T05:09:37.627Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:03.518Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229086
+      }
     },
     {
       "id": "8APZ819",
       "plateNumber": "8APZ819",
-      "slotLocation": "222",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:40.040Z",
       "originalTimeIn": "2022-02-04T05:09:40.040Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:49.875Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229070
+      }
     },
     {
       "id": "8CQM053",
       "plateNumber": "8CQM053",
-      "slotLocation": "202",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:42.124Z",
       "originalTimeIn": "2022-02-04T05:09:42.124Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:53.355Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229071
+      }
     },
     {
       "id": "7MDP382",
       "plateNumber": "7MDP382",
-      "slotLocation": "212",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:46.104Z",
       "originalTimeIn": "2022-02-04T05:09:46.104Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:51.390Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229065
+      }
     },
     {
       "id": "8FTM530",
       "plateNumber": "8FTM530",
-      "slotLocation": "112",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:51.368Z",
       "originalTimeIn": "2022-02-04T05:09:51.369Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:45.008Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437151,
+        "seconds": 146229054
+      }
     },
     {
       "id": "6VJF795",
       "plateNumber": "6VJF795",
-      "slotLocation": "122",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:53.218Z",
       "originalTimeIn": "2022-02-04T05:09:53.218Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:56.806Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229064
+      }
     },
     {
       "id": "6XIQ123",
       "plateNumber": "6XIQ123",
-      "slotLocation": "032",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:55.028Z",
       "originalTimeIn": "2022-02-04T05:09:55.028Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:33.307Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437151,
+        "seconds": 146229038
+      }
     },
     {
       "id": "7SPC955",
       "plateNumber": "7SPC955",
-      "slotLocation": "132",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:57.202Z",
       "originalTimeIn": "2022-02-04T05:09:57.202Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:58.763Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229062
+      }
     },
     {
       "id": "6YDW796",
       "plateNumber": "6YDW796",
-      "slotLocation": "142",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2022-02-04T05:09:58.859Z",
       "originalTimeIn": "2022-02-04T05:09:58.859Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:21:01.313Z",
+      "wasParked": false,
+      "totalParkingFee": 8460840,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437152,
+        "seconds": 146229062
+      }
     },
     {
       "id": "6XQN375",
       "plateNumber": "6XQN375",
-      "slotLocation": "101",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:10:20.980Z",
       "originalTimeIn": "2022-02-04T05:10:20.980Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:20:39.127Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437151,
+        "seconds": 146229018
+      }
     },
     {
       "id": "7YXM011",
       "plateNumber": "7YXM011",
-      "slotLocation": "001",
+      "slotLocation": "",
       "size": "1",
       "timeIn": "2022-02-04T05:13:20.072Z",
       "originalTimeIn": "2022-02-04T05:13:20.072Z",
-      "timeOut": null,
-      "wasParked": false
-    }
-  ],
-  "added-entrances": [
-    {
-      "toAddEntrance": true,
-      "id": 1
+      "timeOut": "2026-09-23T16:20:18.067Z",
+      "wasParked": false,
+      "totalParkingFee": 8460520,
+      "totalHrsOfPark": {
+        "days": 1692,
+        "hours": 11,
+        "minutes": 2437147,
+        "seconds": 146228818
+      }
     },
     {
-      "toAddEntrance": true,
-      "id": 2
+      "id": "6WGB243",
+      "plateNumber": "6WGB243",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:40:40.207Z",
+      "originalTimeIn": "2026-09-23T16:40:40.207Z",
+      "timeOut": "2026-09-23T16:42:06.293Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 86
+      }
+    },
+    {
+      "id": "7MWQ401",
+      "plateNumber": "7MWQ401",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:40:43.373Z",
+      "originalTimeIn": "2026-09-23T16:40:43.373Z",
+      "timeOut": "2026-09-23T16:42:20.190Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 97
+      }
+    },
+    {
+      "id": "8GOO530",
+      "plateNumber": "8GOO530",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:40:45.682Z",
+      "originalTimeIn": "2026-09-23T16:40:45.682Z",
+      "timeOut": "2026-09-23T16:42:27.076Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 101
+      }
+    },
+    {
+      "id": "7ZBO489",
+      "plateNumber": "7ZBO489",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:40:49.487Z",
+      "originalTimeIn": "2026-09-23T16:40:49.487Z",
+      "timeOut": "2026-09-23T16:42:21.757Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 92
+      }
+    },
+    {
+      "id": "8GSR078",
+      "plateNumber": "8GSR078",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:40:52.320Z",
+      "originalTimeIn": "2026-09-23T16:40:52.320Z",
+      "timeOut": "2026-09-23T16:42:23.206Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 91
+      }
+    },
+    {
+      "id": "8FOL615",
+      "plateNumber": "8FOL615",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:40:59.049Z",
+      "originalTimeIn": "2026-09-23T16:40:59.049Z",
+      "timeOut": "2026-09-23T16:42:15.834Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 77
+      }
+    },
+    {
+      "id": "7MBG722",
+      "plateNumber": "7MBG722",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:41:01.688Z",
+      "originalTimeIn": "2026-09-23T16:41:01.688Z",
+      "timeOut": "2026-09-23T16:42:17.348Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 76
+      }
+    },
+    {
+      "id": "8EWE855",
+      "plateNumber": "8EWE855",
+      "slotLocation": "",
+      "size": "2",
+      "timeIn": "2026-09-23T16:41:08.040Z",
+      "originalTimeIn": "2026-09-23T16:41:08.040Z",
+      "timeOut": "2026-09-23T16:42:18.811Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 71
+      }
+    },
+    {
+      "id": "6XJD123",
+      "plateNumber": "6XJD123",
+      "slotLocation": "",
+      "size": "1",
+      "timeIn": "2026-09-23T16:41:15.330Z",
+      "originalTimeIn": "2026-09-23T16:41:15.330Z",
+      "timeOut": "2026-09-23T16:42:24.645Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 69
+      }
+    },
+    {
+      "id": "7HVZ549",
+      "plateNumber": "7HVZ549",
+      "slotLocation": "",
+      "size": "1",
+      "timeIn": "2026-09-23T16:41:19.979Z",
+      "originalTimeIn": "2026-09-23T16:41:19.979Z",
+      "timeOut": "2026-09-23T16:42:25.883Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 66
+      }
+    },
+    {
+      "id": "6UOB544",
+      "plateNumber": "6UOB544",
+      "slotLocation": "",
+      "size": "1",
+      "timeIn": "2026-09-23T16:41:24.534Z",
+      "originalTimeIn": "2026-09-23T16:41:24.534Z",
+      "timeOut": "2026-09-23T16:42:34.890Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 70
+      }
+    },
+    {
+      "id": "7PXG399",
+      "plateNumber": "7PXG399",
+      "slotLocation": "",
+      "size": "1",
+      "timeIn": "2026-09-23T16:41:28.214Z",
+      "originalTimeIn": "2026-09-23T16:41:28.215Z",
+      "timeOut": "2026-09-23T16:42:35.918Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 68
+      }
+    },
+    {
+      "id": "7JIA983",
+      "plateNumber": "7JIA983",
+      "slotLocation": "",
+      "size": "2",
+      "timeIn": "2026-09-23T16:41:33.347Z",
+      "originalTimeIn": "2026-09-23T16:41:33.347Z",
+      "timeOut": "2026-09-23T16:42:28.695Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 55
+      }
+    },
+    {
+      "id": "7YZY222",
+      "plateNumber": "7YZY222",
+      "slotLocation": "",
+      "size": "2",
+      "timeIn": "2026-09-23T16:41:35.597Z",
+      "originalTimeIn": "2026-09-23T16:41:35.597Z",
+      "timeOut": "2026-09-23T16:42:39.235Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 64
+      }
+    },
+    {
+      "id": "8INK349",
+      "plateNumber": "8INK349",
+      "slotLocation": "",
+      "size": "2",
+      "timeIn": "2026-09-23T16:41:37.582Z",
+      "originalTimeIn": "2026-09-23T16:41:37.582Z",
+      "timeOut": "2026-09-23T16:42:37.673Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 60
+      }
+    },
+    {
+      "id": "6VOR523",
+      "plateNumber": "6VOR523",
+      "slotLocation": "242",
+      "size": "2",
+      "timeIn": "2026-09-23T16:41:40.403Z",
+      "originalTimeIn": "2026-09-23T16:41:40.403Z",
+      "timeOut": null,
+      "wasParked": false
+    },
+    {
+      "id": "6TZO189",
+      "plateNumber": "6TZO189",
+      "slotLocation": "",
+      "size": "1",
+      "timeIn": "2026-09-23T16:41:47.753Z",
+      "originalTimeIn": "2026-09-23T16:41:47.753Z",
+      "timeOut": "2026-09-23T16:42:33.308Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46
+      }
+    },
+    {
+      "id": "6ZBT141",
+      "plateNumber": "6ZBT141",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:41:50.145Z",
+      "originalTimeIn": "2026-09-23T16:41:50.145Z",
+      "timeOut": "2026-09-23T16:42:11.063Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21
+      }
+    },
+    {
+      "id": "8HFH809",
+      "plateNumber": "8HFH809",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:41:51.690Z",
+      "originalTimeIn": "2026-09-23T16:41:51.690Z",
+      "timeOut": "2026-09-23T16:42:12.803Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21
+      }
+    },
+    {
+      "id": "6WGB476",
+      "plateNumber": "6WGB476",
+      "slotLocation": "",
+      "size": "0",
+      "timeIn": "2026-09-23T16:41:53.370Z",
+      "originalTimeIn": "2026-09-23T16:41:53.370Z",
+      "timeOut": "2026-09-23T16:42:31.133Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38
+      }
     }
-  ]
+  ],
+  "added-entrances": []
 }

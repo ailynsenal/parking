@@ -1,3 +1,45 @@
+:root {
+  /* slot sizes: one hue, darker = bigger */
+  --slot-small: #e0f2fe;
+  --slot-medium: #bae6fd;
+  --slot-large: #7dd3fc;
+  --slot-text: #0f172a;
+  --slot-occupied: #1e293b;
+  --tile-hover: #f1f5f9;
+
+  /* surfaces and borders */
+  --page-bg: #f8fafc;
+  --surface: #ffffff;
+  --border-subtle: #cbd5e1;
+  --border-input: #6b7280;
+  --entrance-bg: #f0f9ff;
+  --entrance-border: #bae6fd;
+  --close: #64748b;
+  --close-hover: #0f172a;
+
+  /* actions */
+  --primary: #0e7490;
+  --primary-hover: #155e75;
+  --secondary: #557c55;
+  --secondary-hover: #116530;
+  --danger: #dc2626;
+  --danger-hover: #b91c1c;
+  --disabled-bg: #e5e7eb;
+  --disabled-text: #6b7280;
+  --error-text: #b91c1c;
+}
+
+body {
+  background-color: var(--page-bg);
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
 .container {
   margin: auto;
   padding: 24px;
@@ -5,7 +47,8 @@
 
 .parking-lot-wrapper {
   overflow: auto;
-  border: 1px solid #9ca3af;
+  background-color: var(--surface);
+  border: 1px solid var(--border-subtle);
   border-radius: 6px;
   min-width: 50%;
   max-height: 900px;
@@ -27,7 +70,8 @@
 }
 
 .entrance {
-  border: 1px solid #9ca3af;
+  background-color: var(--entrance-bg);
+  border: 1px solid var(--entrance-border);
   padding: 12px;
   margin-right: calc(30% / 5);
 }
@@ -37,13 +81,13 @@
 }
 
 #car-sizes {
-  border: 1px solid #9ca3af;
+  border: 1px solid var(--border-input);
   border-radius: 6px;
   padding: 6px;
 }
 
 .input-plate {
-  border: 1px solid #9ca3af;
+  border: 1px solid var(--border-input);
   border-radius: 6px;
   padding: 6px;
   margin-right: 12px;
@@ -58,13 +102,13 @@
 }
 
 .tile {
-  border: 1px solid #9ca3af;
+  border: 1px solid var(--border-subtle);
   border-radius: 6px;
   margin: 0 24px;
 }
 
 .tile:hover {
-  background-color: #e8f6ef;
+  background-color: var(--tile-hover);
 }
 
 .slot {
@@ -72,19 +116,20 @@
 }
 
 .size {
-  border: 1px solid #9ca3af;
+  border: 1px solid var(--border-subtle);
+  color: var(--slot-text);
 }
 
 .size-S {
-  background-color: #ffafaf;
+  background-color: var(--slot-small);
 }
 
 .size-M {
-  background-color: #f0d9ff;
+  background-color: var(--slot-medium);
 }
 
 .size-L {
-  background-color: #b5eaea;
+  background-color: var(--slot-large);
 }
 
 .slot-content {
@@ -107,10 +152,17 @@
 }
 
 .plate-number {
-  border: 1px solid #9ca3af;
+  border: 1px solid var(--border-subtle);
   margin-top: 18px;
   font-size: 12px;
   min-height: 25px;
+}
+
+.plate-number.occupied {
+  background-color: var(--slot-occupied);
+  border-color: var(--slot-occupied);
+  color: white;
+  cursor: pointer;
 }
 
 .car-icon {
@@ -127,17 +179,17 @@ button {
 }
 
 .park-btn {
-  background-color: #1687a7;
+  background-color: var(--primary);
   margin-left: 12px;
 }
 
 .generate-plate-number:hover,
 .park-btn:hover {
-  background-color: #0c7b93;
+  background-color: var(--primary-hover);
 }
 
 .generate-plate-number {
-  background-color: #1687a7;
+  background-color: var(--primary);
   margin-right: 12px;
 }
 
@@ -146,28 +198,29 @@ button {
 }
 
 .delete-entry {
-  background-color: #ff5c58;
+  background-color: var(--danger);
 }
 
 .delete-entry:hover {
-  background-color: #9b0000;
+  background-color: var(--danger-hover);
 }
 
 .add-entry {
-  background-color: #557c55;
+  background-color: var(--secondary);
   margin-right: 12px;
 }
 
 .add-entry:hover {
-  background-color: #116530;
+  background-color: var(--secondary-hover);
 }
 
 .disabled {
   pointer-events: none;
-  background-color: #9ca3af;
+  background-color: var(--disabled-bg);
+  color: var(--disabled-text);
 }
 .alert {
-  color: red;
+  color: var(--error-text);
   font-size: 12px;
   padding-top: 6px;
 }
@@ -189,7 +242,7 @@ button {
 
 /* Modal Content */
 .modal-content {
-  background-color: #fefefe;
+  background-color: var(--surface);
   margin: auto;
   padding: 20px;
   width: 30%;
@@ -208,7 +261,7 @@ button {
 .content {
   margin: 24px 0;
   padding: 12px;
-  border: 1px solid #9ca3af;
+  border: 1px solid var(--border-subtle);
   border-radius: 6px;
 }
 
@@ -221,6 +274,11 @@ button {
   padding-right: 12px;
 }
 
+.value.fee {
+  font-weight: 700;
+  color: var(--primary);
+}
+
 .button-wrapper {
   display: flex;
   justify-content: flex-end;
@@ -228,7 +286,7 @@ button {
 
 /* The Close Button */
 .close {
-  color: #aaaaaa;
+  color: var(--close);
   float: right;
   font-size: 28px;
   font-weight: bold;
@@ -236,7 +294,7 @@ button {
 
 .close:hover,
 .close:focus {
-  color: #000;
+  color: var(--close-hover);
   text-decoration: none;
   cursor: pointer;
 }
