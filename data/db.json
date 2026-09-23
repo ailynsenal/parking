@@ -870,12 +870,19 @@
     {
       "id": "6VOR523",
       "plateNumber": "6VOR523",
-      "slotLocation": "242",
+      "slotLocation": "",
       "size": "2",
       "timeIn": "2026-09-23T16:41:40.403Z",
       "originalTimeIn": "2026-09-23T16:41:40.403Z",
-      "timeOut": null,
-      "wasParked": false
+      "timeOut": "2026-09-23T16:44:11.186Z",
+      "wasParked": false,
+      "totalParkingFee": 40,
+      "totalHrsOfPark": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 151
+      }
     },
     {
       "id": "6TZO189",
